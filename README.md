@@ -8,7 +8,8 @@
 [Front End Checklist](https://github.com/thedaviddias/Front-End-Checklist)<br>
 [Sindre Sorhus](https://github.com/sindresorhus/awesome)<br>
 [Git Kraken](https://www.gitkraken.com/)<br>
-[IDEs Online](https://replit.com/)(https://www.codechef.com/)
+[IDEs Online](https://replit.com/)
+ (https://www.codechef.com/)
  (https://www.jdoodle.com/)
  (https://jsfiddle.net/)
  (https://codepen.io/)
