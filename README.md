@@ -1,5 +1,6 @@
 # Links Para estudo
 <table>
+[Code Projects](https://code-projects.org/)<br>
 [Animated Backgrounds](https://animatedbackgrounds.me/)<br>
 [Power Apps](https://powerapps.microsoft.com/pt-br/)<br>
 [Clone Wars](https://github.com/GorvGoyl/Clone-Wars)<br>
